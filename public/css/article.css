@@ -1,0 +1,36 @@
+.article-content {
+    word-wrap: break-word;
+    overflow: hidden;
+}
+.article-content-link{
+    color:#9ab;
+    text-decoration:none;
+}
+.article-writer{
+    color:#678
+} 
+.article-writer-link{ 
+    color: #abc;
+    text-decoration: none;
+}
+
+.article-title{
+    color: white;
+    font-size:1.40rem;
+}
+.article-description{
+    word-wrap: break-word;
+    font-size:1.30rem;
+}
+
+.article-comment{
+    word-wrap: break-word;
+    overflow: hidden;
+    text-align:center
+}
+.comment-writer{
+    word-wrap: break-word; overflow: hidden;
+}
+.comment-comment{
+    word-wrap: break-word; overflow: hidden;
+}
